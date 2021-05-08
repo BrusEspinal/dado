@@ -1,4 +1,4 @@
-# 🔴 Hola, Soy Brus 👨‍💻
+# 👓 Hola, Soy Brus 💻
 
 <img src="https://github.com/BrusEspinal/dado/blob/main/img/dado1.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
