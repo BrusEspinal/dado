@@ -1,6 +1,6 @@
 # Hola, Soy Brus 👀👨‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/BrusEspinal/dado/blob/main/img/dado1.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 Juego de mesa <a href="https://stars.github.com/">GitHub Star</a>.
 
