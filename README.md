@@ -4,7 +4,7 @@
 
 Juego de mesa <a href="https://brusespinal.github.io/dado/">Jugar dado</a>.
 
-## Encuentrame en: <img align="left" width="150" height="150" src="https://github.com/BrusEspinal/dado/blob/main/img/dado.gif?raw=true"></a>
+## Encuentrame en: <img align="left" width="150" height="150" src="https://github.com/BrusEspinal/dado/blob/main/img/dado.gif?raw=true  target="_blank" "></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> 🤘
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 👍
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 🤙
