@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+body {
+    display: flex;
+    justify-content: center;    
+    flex-direction: column;
+    min-height: 100vh;    
+    align-items: center;    
+    background: #ffae00;
+}
+
+.myButton {
+	background-color: #ff6a00;
+	display:inline-block;  	
+	cursor:pointer;
+	color:#ffffff;  
+	font-family:Arial;
+	font-size:15px;
+	padding:15px 60px;		
+	text-decoration:none;
+    margin-top: 50px;
+    border-radius: 3px;
+	}
+
+.myButton:hover { 	
+	background-color:#ff4d00;  
+}
+
+.myButton:active {   
+	position:relative;  
+	top:2px;
+    background-color: #ff6a00;
+}
