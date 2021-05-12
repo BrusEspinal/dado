@@ -1,6 +1,6 @@
 # 👓 Hola, Soy Brus 💻
 
-<img src="https://github.com/BrusEspinal/dado/blob/main/img/dado1.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/BrusEspinal/dado/blob/main/img/dado2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 🎲 Dados. Haz clic en lanzar para jugar a cualquier juego de mesa con tu familia y amigos. Puedes compartir este contenido con tu grupo familiar. <a href="https://brusespinal.github.io/dado/" target="_blank" >Jugar dado aquí</a>.
 
