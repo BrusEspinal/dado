@@ -7,4 +7,4 @@
 ## 🌐 Encuentrame en: <img align="left" width="150" height="150" src="https://github.com/BrusEspinal/dado/blob/main/img/dado.gif?raw=true"></a>
 Compartir contenidos <a href="https://www.facebook.com/">Facebook</a> 🤘 <br>
 Compartir contenidos / video <a href="https://www.facebook.com/brus.espinal/videos_by"> Facebook</a> 👍 <br>
-Ccompartir video <a href="https://www.youtube.com/user/Materialhyo">Facebook</a> 🤙
+Ccompartir video <a href="https://www.youtube.com/user/Materialhyo">Youtube</a> 🤙
